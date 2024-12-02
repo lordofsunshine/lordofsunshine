@@ -5,7 +5,7 @@
 <br><br>
 <img src="https://cdn.glitch.global/57385596-405d-412a-a5cf-80f2f6b7167f/0dff835c-bdbc-456a-81a5-d87be6f70f83.image.png?v=1733153708719" alt="Banner" width="auto" height="auto">
 
-![](https://dcbadge.limes.pink/api/shield/619036853030617099)
+<a href="https://discord.com/users/619036853030617099">![](https://dcbadge.limes.pink/api/shield/619036853030617099)</a>
 
 <hr>
 
