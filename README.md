@@ -3,7 +3,7 @@
 
 <i><b>— "У каждой истории есть своя глава, которую мы оставляем за кадром."</b></i>
 <br><br>
-<img src="https://cdn.glitch.global/57385596-405d-412a-a5cf-80f2f6b7167f/0dff835c-bdbc-456a-81a5-d87be6f70f83.image.png?v=1733153708719" alt="Banner" width="auto" height="auto">
+<img src="https://cdn.glitch.global/86ea1f30-b0c2-4c99-97ce-2c6c1c4d5005/preview%20(1).jpg?v=1734267013401" alt="Banner" width="auto" height="auto">
 
 <a href="https://discord.com/users/619036853030617099">![](https://dcbadge.limes.pink/api/shield/619036853030617099)</a>
 
