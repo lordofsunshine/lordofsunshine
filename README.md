@@ -20,4 +20,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=lordofsunshine&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lordofsunshine&icon=10&color=13)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=lordofsunshine)
