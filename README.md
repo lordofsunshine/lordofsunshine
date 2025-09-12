@@ -8,12 +8,12 @@
 
 ## Обо мне
 
-Я увлеченный Frontend-разработчик, который постоянно стремится к совершенству в создании цифровых продуктов. Мой путь в разработке начался с изучения Frontend-технологий, и с тех пор я активно развиваюсь в этой области.
+Я увлеченный Fullstack (почти)-разработчик, который постоянно стремится к совершенству в создании цифровых продуктов. Мой путь в разработке начался с изучения Frontend-технологий, и с тех пор я активно развиваюсь в этих областях.
 
 ## Технический стек
 
 <details open>
-  <summary><b>Frontend</b></summary>
+  <summary><b>Фронтенд</b></summary>
   <br>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary><b>Backend</b></summary>
+  <summary><b>Бэкенд</b></summary>
   <br>
   
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -62,21 +62,6 @@
 ## Достижения
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lordofsunshine&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-## Связь
-
-<a href="https://discord.com/users/619036853030617099">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-</a>
-<a href="https://github.com/lordofsunshine">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-</a>
-
-## Статус
-
-![Developer Status](https://img.shields.io/badge/Status-Developer%20Mode%20On-green?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Code Style](https://img.shields.io/badge/Code%20Style-Prettier%20%7C%20ESLint-blue?style=for-the-badge&logo=prettier&logoColor=white)
-![Operating System](https://img.shields.io/badge/OS-Windows%2010-blue?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
