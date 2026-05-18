@@ -1,93 +1,181 @@
-# Привет, я **lordofsunshine** 👋  
-[🇬🇧 English version](./README.en.md)
+# Привет, я **lordofsunshine** 👋
 
 <div align="center">
-  <img src="https://cdn.glitch.global/86ea1f30-b0c2-4c99-97ce-2c6c1c4d5005/preview%20(1).jpg?v=1734267013401" alt="Banner" width="100%" height="auto">
+  <img src="https://i.postimg.cc/g2jc5hGc/33.webp" alt="lordofsunshine banner" width="100%" />
 </div>
 
-> *"У каждой истории есть своя глава, которую мы оставляем за кадром."*
+<br>
+
+<div align="center">
+
+**Fullstack-разработчик, который любит чистый код, аккуратный интерфейс и полезные веб-инструменты.**
+[🇬🇧 English version](./README.en.md)
+</div>
 
 ---
 
 ## 👨‍💻 Обо мне
 
-Я — **Fullstack-разработчик**, который любит соединять логику и эстетику в одном коде.  
-Начал с **Frontend**, но сейчас активно развиваюсь и в **Backend**, создавая собственные веб-сервисы, API и ботов.  
-Люблю, когда проекты не просто работают, а делают это **чисто, быстро и со вкусом**.
+Я занимаюсь веб-разработкой и постепенно развиваюсь как **fullstack-разработчик**.
 
-💡 **Основной фокус:** FastAPI / Express.js / MongoDB / Tailwind / Vercel  
-🎯 **Цель:** создавать понятные, масштабируемые и стильные решения.
+Начинал я с frontend: верстка, интерфейсы, визуальная часть, адаптивность и удобство для пользователя. Сейчас больше углубляюсь в backend - это АПИ, серверная логика, базы данных, авторизация, хранение данных и работа с ботами.
 
----
+Мне нравится делать проекты, которые выглядят аккуратно и при этом реально решают задачу. Для меня важно, чтобы приложение было не только красивым внешне, но и понятным изнутри, т.е. с нормальной структурой, читаемым кодом и логичной архитектурой.
 
-## ⚙️ Технологический стек
+Сейчас я разрабатываю:
 
-<details open>
-  <summary><b>Фронтенд</b></summary>
-  <br>
-
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</details>
-
-<details>
-  <summary><b>Бэкенд</b></summary>
-  <br>
-
-  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</details>
-
-<details>
-  <summary><b>Инфраструктура</b></summary>
-  <br>
-
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</details>
-
-<details>
-  <summary><b>Инструменты и дизайн</b></summary>
-  <br>
-
-  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-</details>
+- разработка веб-сервисов
+- API и backend-логика
+- AI-инструменты
+- небольшие SaaS-проекты
+- боты и автоматизация
+- интерфейсы с чистым и современным дизайном
 
 ---
 
-## 📊 GitHub Статистика
+## 🎯 Что мне интересно
+
+Я чаще всего делаю проекты на стыке **разработки, дизайна и автоматизации**.
+
+Мне интересны инструменты, которые помогают людям работать быстрее: генераторы, панели управления, редакторы, AI-помощники, сервисы для файлов, платформы для публикации проектов и другие прикладные веб-продукты.
+
+---
+
+## 🧩 Основной стек
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-111111?style=for-the-badge&logo=fastify&logoColor=white)
+
+### Базы данных и инфраструктура
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Инструменты
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🚀 Проекты, которые лучше всего показывают мой фокус
+
+### MonoForge
+
+Платформа для публикации и просмотра open-source проектов.
+
+Идея проекта: сделать более спокойное и удобное пространство для работы с публичными проектами, файлами, README и задачами без лишнего шума.
+
+Что внутри:
+
+- загрузка и просмотр проектов
+- работа с README
+- публичные страницы проектов
+- обсуждение задач
+- структура под полноценный веб-сервис
+- TypeScript, Next.js, Prisma, Docker
+
+---
+
+### bearCode
+
+AI-помощник и интерфейс для работы с кодом и обучением.
+
+Проект связан с чат-интерфейсом, генерацией ответов и удобной подачей информации для пользователя. В таких проектах мне особенно интересно соединять backend, API и приятный UI.
+
+Что важно:
+
+- работа с AI API
+- серверная логика
+- история диалогов
+- адаптивный интерфейс
+- фокус на простоте использования
+
+---
+
+### monopdf-ai
+
+AI-инструмент для работы с PDF-документами.
+
+Идея проекта: упростить обработку документов, генерацию текста и работу с PDF через понятный веб-интерфейс.
+
+Возможные направления развития:
+
+- генерация документов
+- анализ содержимого PDF
+- краткие пересказы
+- удобная работа с файлами
+- улучшение UX для пользователя
+
+---
+
+## 🧠 Как я подхожу к разработке
+
+Я стараюсь делать проекты так, чтобы их можно было не только показать, но и развивать дальше (если есть силы). 
+
+Я понимаю, что многие проекты еще можно улучшать: где-то нужна более подробная документация, где-то тесты, где-то лучшее описание архитектуры или более стабильный деплой. Сейчас я как раз двигаюсь в эту сторону и стараюсь доводить сильные проекты до более серьезного уровня.
+
+Очень плохо, что таких людей, как я, очень много и их не замечают, хотя они делают достойные проекты, а вот поддержки практически никакой нет. Хотя это важно для любого проекта. 
+
+---
+
+## 📊 GitHub статистика
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordofsunshine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=lordofsunshine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordofsunshine&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordofsunshine&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🏆 Достижения
+## 🏆 Активность
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lordofsunshine&theme=tokyonight&column=4&no-frame=true&no-bg=true)
+<img src="https://github-profile-trophy.vercel.app/?username=lordofsunshine&theme=tokyonight&column=4&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
+## 📫 Связь
+
+Если тебе интересны мои проекты, идеи или возможное сотрудничество, можешь написать мне в Telegram.
+
+- GitHub: [@lordofsunshine](https://github.com/lordofsunshine)
+- Telegram: [@bobiku228](https://t.me/bobiku228)
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lordofsunshine&style=flat-square&color=blueviolet" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=lordofsunshine&style=flat-square&color=blue" alt="Profile Views" />
+
+<br><br>
+
+**Спасибо, что заглянул 👋**
+
 </div>
