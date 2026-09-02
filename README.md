@@ -4,7 +4,7 @@
 
 # Hi, I'm **lordofsunshine** 👋
 
-<img src="https://i.postimg.cc/g2jc5hGc/33.webp" alt="lordofsunshine banner" width="100%" />
+<img src="https://i.postimg.cc/mrWWPB9q/Chat-GPT-Image-2-sent-2026-g-20-33-32.png" alt="lordofsunshine banner" width="90%" />
 
 <br><br>
 
